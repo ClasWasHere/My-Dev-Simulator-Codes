@@ -1,4 +1,4 @@
 [
-  {"code":"launch", "player":" "},
-  {"code":"alpha", "player":" "}
+  ["launch"] = {"reward":500, "player":""},
+  ["alpha"] = {"reward":500, "player":""},
 ]
