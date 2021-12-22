@@ -1,4 +1,5 @@
 {
   "launch" : {"reward":200, "player":0},
   "alpha" : {"reward":300, "player":0},
+  "test" : {"reward":6969, "player":0},
 }
