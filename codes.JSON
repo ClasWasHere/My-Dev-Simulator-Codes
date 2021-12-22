@@ -1,3 +1,4 @@
 {
-  "awards" : "title":"1337 h4x04","is_epic":true,"money":123456
+  "launch":{"reward":"500","player":""},
+  "alpha":{"reward":"200","player":""}
 }
