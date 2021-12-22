@@ -1,4 +1,4 @@
 {
-"alpha" : {"reward":"500", "player":"1"}
-"launch" : {"reward":"500", "player":"0"}
+"alpha" : {"reward":"500", "player":"1"},
+"launch" : {"reward":"500", "player":"0"},
 }
